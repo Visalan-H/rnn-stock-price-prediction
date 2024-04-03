@@ -10,13 +10,12 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Design Steps
 
 ### Step 1:
-Write your own steps
+Import all necessary libraries and datasets 
 
 ### Step 2:
-
+Do the necessary preprocessing and create the model using a single RNN Layer with 60 neurons and a dense layer for the output.
 ### Step 3:
-
-
+Give the test set and predict using the model and plot it using matplotlib
 
 ## Program
 #### Name:Visalan H
