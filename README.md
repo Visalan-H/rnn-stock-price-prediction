@@ -5,7 +5,7 @@
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
-
+![image](https://github.com/Visalan-H/rnn-stock-price-prediction/assets/152077751/8929266c-31d2-4fc6-a34d-a57b4671ee56)
 
 ## Design Steps
 
@@ -100,3 +100,4 @@ plt.show()
 ![image](https://github.com/Visalan-H/rnn-stock-price-prediction/assets/152077751/790ebb5b-55ee-4fb7-a027-418fce49129b)
 
 ## Result
+Thus, A model to predict future stock prices is created successfully.
