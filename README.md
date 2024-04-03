@@ -8,10 +8,8 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ![image](https://github.com/Visalan-H/rnn-stock-price-prediction/assets/152077751/8929266c-31d2-4fc6-a34d-a57b4671ee56)
 
 ## Design Steps
-
 ### Step 1:
 Import all necessary libraries and datasets 
-
 ### Step 2:
 Do the necessary preprocessing and create the model using a single RNN Layer with 60 neurons and a dense layer for the output.
 ### Step 3:
@@ -93,15 +91,10 @@ plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
 ```
-
 ## Output
-
 ### True Stock Price, Predicted Stock Price vs time
 ![Screenshot 2024-04-03 142707](https://github.com/Visalan-H/rnn-stock-price-prediction/assets/152077751/c5441244-878a-47ad-8349-4fda33baaf82)
-
 ### Mean Square Error
-
 ![image](https://github.com/Visalan-H/rnn-stock-price-prediction/assets/152077751/790ebb5b-55ee-4fb7-a027-418fce49129b)
-
 ## Result
 Thus, A model to predict future stock prices is created successfully.
