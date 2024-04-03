@@ -32,7 +32,11 @@ from keras.layers import *
 import matplotlib.pyplot as plt
 
 train=pd.read_csv('trainset.csv')
+
+print("Name:Visalan")
+print("Register Number:212223240183")
 train.head()
+
 train.columns
 X=train.iloc[:,1:2].values
 type(X)
